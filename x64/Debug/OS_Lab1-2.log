@@ -1,0 +1,4 @@
+﻿  CrossNuls.cpp
+D:\Studing\ОСи\Лабы\CrossNuls\CrossNuls.cpp(31,18): warning C4129: M: неизвестная escape-последовательность
+D:\Studing\ОСи\Лабы\CrossNuls\CrossNuls.cpp(504,36): warning C4101: choice: неиспользованная локальная переменная
+  OS_Lab1-2.vcxproj -> D:\Studing\ОСи\Лабы\CrossNuls\x64\Debug\CrossNuls.exe
